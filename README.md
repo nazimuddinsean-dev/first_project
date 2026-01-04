@@ -39,8 +39,6 @@ ProjectRoot/
 ````
 
 ## Contributors
-Mohammad Nazim Uddin
-Mob: 01712209861
-Email: nazim.uddin.sean@gmail.com
+**Mohammad Nazim Uddin** - 📱 Mobile: [01712209861](tel:01712209861) - 📧 Email: [nazim.uddin.sean@gmail.com](mailto:nazim.uddin.sean@gmail.com)
 
 
