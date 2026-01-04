@@ -1,0 +1,13 @@
+# Xcode
+.DS_Store
+.xcuserdata
+xcuserdata/
+xcschememanagement.plist
+Pods/
+Podfile.lock
+/.idea
+ProjectV.xcodeproj/xcuserdata/*
+/ProjectV.xcodeproj/xcuserdata/
+/ProjectV.xcodeproj/project.xcworkspace/xcuserdata/
+/ProjectV.xcworkspace/xcshareddata/*
+*.ipa
